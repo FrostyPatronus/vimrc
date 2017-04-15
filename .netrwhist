@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/frosty/.vimperator'
+let g:netrw_dirhist_2='/home/frosty/.mozilla/extensions'
+let g:netrw_dirhist_3='/home/frosty/.mozilla/firefox/0cvfn4ch.default/tabtrekker/images'
+let g:netrw_dirhist_4='/home/frosty/.vimperator'
+let g:netrw_dirhist_5='/home/frosty/tim/forks/tnote'
+let g:netrw_dirhist_6='/etc'
